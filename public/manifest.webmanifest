@@ -1,0 +1,9 @@
+{
+  "name": "PocketAgent Lab",
+  "short_name": "PocketAgent",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1240",
+  "theme_color": "#1a1240",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
